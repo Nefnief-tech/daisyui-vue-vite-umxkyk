@@ -1,3 +1,2 @@
-# daisyui-vue-vite-umxkyk
+# daisyui-vue-vite webside
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/daisyui-vue-vite-umxkyk)
